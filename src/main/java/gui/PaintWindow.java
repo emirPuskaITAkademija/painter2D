@@ -3,6 +3,7 @@ package gui;
 import listener.ExitListener;
 import listener.OpenListener;
 import listener.SaveListener;
+import xml.sax.SaxParser;
 
 import javax.swing.*;
 import javax.swing.border.TitledBorder;
@@ -17,11 +18,13 @@ public class PaintWindow extends JFrame {
     private final JRadioButton blueRadioButton = new JRadioButton("Plava");
     private final JRadioButton redRadioButton = new JRadioButton("Crvena");
 
+    private final PaintPanel paintPanel = new PaintPanel();
+
     private PaintWindow(){
         setTitle("Painter 2D");
         setSize(500, 300);
         add(settingsPanel(), BorderLayout.NORTH);
-        add(new PaintPanel(), BorderLayout.CENTER);
+        add(paintPanel, BorderLayout.CENTER);
 
         //Prozor ima 3 meni: opcije(otvori, sačuvaj, izlaz)
         JMenuBar menuBar = new JMenuBar();
@@ -31,7 +34,7 @@ public class PaintWindow extends JFrame {
         saveMenuItem.addActionListener(new SaveListener());
 
         JMenuItem openMenuItem = new JMenuItem("Otvori");
-        openMenuItem.addActionListener(new OpenListener());
+        openMenuItem.addActionListener(new OpenListener(new SaxParser()));
 
         JMenuItem exitMenuItem = new JMenuItem("Izlaz");
         exitMenuItem.addActionListener(new ExitListener());
@@ -42,6 +45,10 @@ public class PaintWindow extends JFrame {
 
         menuBar.add(fileMenu);
         setJMenuBar(menuBar);
+    }
+
+    public PaintPanel getPaintPanel() {
+        return paintPanel;
     }
 
     private JPanel settingsPanel(){

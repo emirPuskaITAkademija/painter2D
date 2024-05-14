@@ -1,6 +1,6 @@
 package gui;
 
-import shape.Ellipse;
+import shape.EllipseShape;
 import shape.PaintShape;
 import shape.RectangleShape;
 
@@ -8,10 +8,23 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
-import java.awt.event.MouseWheelEvent;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Platno za slikanje sličica.
+ * <p>
+ *     Naša sličica nije ništa drugo nego List<PaintShape>.
+ *     Kada neko povlači mišem po tom platnu za slikanje ili kako mi programeri
+ *     volimo kazati PaintPanel instanci on puni tu našu listu i od mnoštva
+ *     PaintShape instanci kreira jednu ili više linija od kojih je satkana naša slika.
+ * </p>
+ *<p>
+ *     <li>MouseListener -> puni paintShapes listu</li>
+ *     <li>paintComponent funkcija -> uzima iz liste "friško" kreirane objekte i prebacuje
+ *     ih na platno kako bi korisnik vidio vizuelno tačkice od kojih je satkana slika</li>
+ *</p>
+ */
 public class PaintPanel extends JPanel {
 
     private final List<PaintShape> paintShapes = new ArrayList<>();
@@ -20,6 +33,11 @@ public class PaintPanel extends JPanel {
         addMouseListener(new DrawListener());
         addMouseMotionListener(new DrawListener());
         setBackground(Color.WHITE);
+    }
+
+    public void clear(){
+        paintShapes.clear();
+        repaint();
     }
 
     @Override
@@ -53,8 +71,9 @@ public class PaintPanel extends JPanel {
             int y = e.getY();
             PaintWindow paintWindow = PaintWindow.instance();
             Color color = paintWindow.getSelectedColor();
-            PaintShape paintShape = paintWindow.isCircleSelected() ? new Ellipse(x, y, color) : new RectangleShape(x, y, color);
+            PaintShape paintShape = paintWindow.isCircleSelected() ? new EllipseShape(x, y, color) : new RectangleShape(x, y, color);
             paintShapes.add(paintShape);
+            System.out.println(paintShapes.size());
             repaint();
         }
     }
