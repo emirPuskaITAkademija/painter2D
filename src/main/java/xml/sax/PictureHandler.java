@@ -1,7 +1,6 @@
 package xml.sax;
 
-import gui.PaintPanel;
-import gui.PaintWindow;
+import commons.Refreshable;
 import org.xml.sax.Attributes;
 import org.xml.sax.SAXException;
 import org.xml.sax.helpers.DefaultHandler;
@@ -10,7 +9,6 @@ import shape.PaintShape;
 import shape.RectangleShape;
 
 import java.awt.*;
-import java.util.ArrayList;
 import java.util.List;
 
 public class PictureHandler extends DefaultHandler {
@@ -23,6 +21,19 @@ public class PictureHandler extends DefaultHandler {
     private boolean colorOpen = false;
     private String type;
     private boolean typeOpen;
+
+    private final Refreshable refreshable;
+    private final List<PaintShape> paintShapes;
+
+
+    public PictureHandler(List<PaintShape> paintShapes){
+        this(paintShapes, Refreshable.EMPTY);
+    }
+
+    public PictureHandler(List<PaintShape> paintShapes, Refreshable refreshable){
+        this.paintShapes = paintShapes;
+        this.refreshable = refreshable;
+    }
 
 
     @Override
@@ -61,13 +72,12 @@ public class PictureHandler extends DefaultHandler {
         if("shape".equals(xmlElementName)){
             Color paintColor = color.equals("RED") ? Color.RED: Color.BLUE;
             PaintShape paintShape = type.equals("CIRCLE") ? new EllipseShape(x, y, paintColor): new RectangleShape(x, y, paintColor);
-            PaintPanel panel = PaintWindow.instance().getPaintPanel();
-            panel.getPaintShapes().add(paintShape);
+            paintShapes.add(paintShape);
         }
     }
 
     @Override
     public void endDocument() throws SAXException {
-        PaintWindow.instance().getPaintPanel().repaint();
+        refreshable.refresh();
     }
 }

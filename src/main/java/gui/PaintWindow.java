@@ -3,11 +3,15 @@ package gui;
 import listener.ExitListener;
 import listener.OpenListener;
 import listener.SaveListener;
+import xml.dom.DomParser;
+import xml.jaxb.JAXBParser;
 import xml.sax.SaxParser;
+import xml.stax.StaxParser;
 
 import javax.swing.*;
 import javax.swing.border.TitledBorder;
 import java.awt.*;
+import java.awt.event.ActionListener;
 
 public class PaintWindow extends JFrame {
     private static PaintWindow paintWindow = null;
@@ -20,38 +24,59 @@ public class PaintWindow extends JFrame {
 
     private final PaintPanel paintPanel = new PaintPanel();
 
-    private PaintWindow(){
+    private PaintWindow() {
         setTitle("Painter 2D");
         setSize(500, 300);
         add(settingsPanel(), BorderLayout.NORTH);
         add(paintPanel, BorderLayout.CENTER);
+        createMenuBar();
+    }
 
+    private void createMenuBar() {
         //Prozor ima 3 meni: opcije(otvori, sačuvaj, izlaz)
         JMenuBar menuBar = new JMenuBar();
         JMenu fileMenu = new JMenu("Fajl");
 
-        JMenuItem saveMenuItem = new JMenuItem("Sačuvaj");
-        saveMenuItem.addActionListener(new SaveListener());
+        SaxParser saxParser = new SaxParser();
+        DomParser domParser = new DomParser();
+        StaxParser staxParser = new StaxParser();
+        JAXBParser jaxbParser = new JAXBParser();
 
-        JMenuItem openMenuItem = new JMenuItem("Otvori");
-        openMenuItem.addActionListener(new OpenListener(new SaxParser()));
+        JMenu saveMenu = new JMenu("Sačuvaj");
+        saveMenu.add(createMenuItem("SAX", new SaveListener(saxParser)));
+        saveMenu.add(createMenuItem("DOM", new SaveListener(domParser)));
+        saveMenu.add(createMenuItem("StAX", new SaveListener(staxParser)));
+        saveMenu.add(createMenuItem("JAXB", new SaveListener(jaxbParser)));
+
+
+        JMenu openMenu = new JMenu("Otvori");
+        openMenu.add(createMenuItem("SAX", new OpenListener(saxParser)));
+        openMenu.add(createMenuItem("DOM", new OpenListener(domParser)));
+        openMenu.add(createMenuItem("StAX", new OpenListener(staxParser)));
+        openMenu.add(createMenuItem("JAXB", new OpenListener(jaxbParser)));
 
         JMenuItem exitMenuItem = new JMenuItem("Izlaz");
         exitMenuItem.addActionListener(new ExitListener());
 
-        fileMenu.add(saveMenuItem);
-        fileMenu.add(openMenuItem);
+        fileMenu.add(saveMenu);
+        fileMenu.add(openMenu);
         fileMenu.add(exitMenuItem);
 
         menuBar.add(fileMenu);
         setJMenuBar(menuBar);
     }
 
+    private JMenuItem createMenuItem(String label, ActionListener actionListener) {
+        JMenuItem jMenuItem = new JMenuItem(label);
+        jMenuItem.addActionListener(actionListener);
+        return jMenuItem;
+    }
+
     public PaintPanel getPaintPanel() {
         return paintPanel;
     }
 
-    private JPanel settingsPanel(){
+    private JPanel settingsPanel() {
         JPanel paintSettingPanel = new JPanel(new FlowLayout(FlowLayout.LEFT));
 
         JPanel shapePanel = new JPanel();
@@ -81,11 +106,11 @@ public class PaintWindow extends JFrame {
     }
 
 
-    public Color getSelectedColor(){
+    public Color getSelectedColor() {
         return blueRadioButton.isSelected() ? Color.BLUE : Color.RED;
     }
 
-    public boolean isCircleSelected(){
+    public boolean isCircleSelected() {
         return circleRadioButton.isSelected();
     }
 
