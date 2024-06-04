@@ -1,0 +1,5 @@
+XPath
+
+Iskorisiti XPath na način da modifikujete DomParser i učitate
+sve elemente u maskota.xml,etc..
+Referirati se na slajd br 37 u prezentaciji 09-12(treće predavanje).

@@ -1,5 +1,6 @@
 package listener;
 
+import gui.PaintPanel;
 import gui.PaintWindow;
 import shape.PaintShape;
 import xml.XmlPictureParser;
@@ -27,8 +28,10 @@ public class OpenListener implements ActionListener {
         if (!pictureName.endsWith(PICTURE_EXTENSION)) {
             pictureName += PICTURE_EXTENSION;
         }
-        PaintWindow.instance().getPaintPanel().getPaintShapes().clear();
+        PaintPanel paintPanel = PaintWindow.instance().getPaintPanel();
+        paintPanel.getPaintShapes().clear();
         List<PaintShape> paintShapes = xmlPictureParser.readPicture(pictureName);
-        PaintWindow.instance().getPaintPanel().getPaintShapes().addAll(paintShapes);
+        paintPanel.getPaintShapes().addAll(paintShapes);
+        paintPanel.repaint();
     }
 }

@@ -29,8 +29,7 @@ public class SaxParser implements XmlPictureParser {
         SAXParserFactory saxParserFactory = SAXParserFactory.newInstance();
         try {
             SAXParser saxParser = saxParserFactory.newSAXParser();
-            Refreshable refreshable = PaintWindow.instance().getPaintPanel()::repaint;
-            PictureHandler pictureHandler = new PictureHandler(paintShapes, refreshable);
+            PictureHandler pictureHandler = new PictureHandler(paintShapes);
             saxParser.parse(fileName, pictureHandler);
         } catch (Exception ex) {
             JOptionPane.showMessageDialog(null, ex.getMessage());

@@ -1,6897 +1,3993 @@
-<?xml version="1.0"?>
+<?xml version="1.0" ?>
 <shapes>
-<shape>
-<x>248</x>
-<y>153</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>248</x>
-<y>154</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>248</x>
-<y>158</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>247</x>
-<y>163</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>245</x>
-<y>169</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>244</x>
-<y>175</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>242</x>
-<y>182</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>242</x>
-<y>190</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>241</x>
-<y>195</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>239</x>
-<y>201</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>239</x>
-<y>207</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>239</x>
-<y>210</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>239</x>
-<y>215</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>239</x>
-<y>219</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>239</x>
-<y>221</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>239</x>
-<y>224</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>239</x>
-<y>226</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>241</x>
-<y>228</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>241</x>
-<y>231</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>243</x>
-<y>234</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>244</x>
-<y>235</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>244</x>
-<y>238</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>245</x>
-<y>240</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>247</x>
-<y>242</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>247</x>
-<y>243</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>247</x>
-<y>246</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>250</x>
-<y>251</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>251</x>
-<y>254</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>253</x>
-<y>256</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>254</x>
-<y>257</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>257</x>
-<y>261</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>258</x>
-<y>262</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>260</x>
-<y>263</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>262</x>
-<y>265</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>263</x>
-<y>266</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>265</x>
-<y>267</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>268</x>
-<y>268</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>269</x>
-<y>269</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>271</x>
-<y>269</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>273</x>
-<y>270</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>274</x>
-<y>270</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>276</x>
-<y>270</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>277</x>
-<y>270</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>279</x>
-<y>270</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>281</x>
-<y>270</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>284</x>
-<y>269</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>286</x>
-<y>267</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>291</x>
-<y>264</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>293</x>
-<y>263</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>297</x>
-<y>259</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>301</x>
-<y>258</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>303</x>
-<y>255</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>307</x>
-<y>248</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>309</x>
-<y>246</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>311</x>
-<y>241</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>313</x>
-<y>237</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>314</x>
-<y>234</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>314</x>
-<y>231</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>315</x>
-<y>226</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>315</x>
-<y>222</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>315</x>
-<y>219</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>315</x>
-<y>215</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>315</x>
-<y>212</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>315</x>
-<y>209</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>315</x>
-<y>206</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>315</x>
-<y>204</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>315</x>
-<y>202</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>315</x>
-<y>199</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>314</x>
-<y>195</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>313</x>
-<y>193</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>312</x>
-<y>190</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>309</x>
-<y>187</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>307</x>
-<y>183</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>305</x>
-<y>181</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>302</x>
-<y>177</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>301</x>
-<y>174</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>297</x>
-<y>171</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>295</x>
-<y>168</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>292</x>
-<y>164</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>291</x>
-<y>163</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>289</x>
-<y>161</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>286</x>
-<y>159</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>284</x>
-<y>158</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>284</x>
-<y>157</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>283</x>
-<y>157</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>281</x>
-<y>156</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>280</x>
-<y>155</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>279</x>
-<y>155</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>278</x>
-<y>155</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>276</x>
-<y>155</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>274</x>
-<y>155</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>273</x>
-<y>155</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>272</x>
-<y>155</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>271</x>
-<y>155</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>270</x>
-<y>156</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>269</x>
-<y>156</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>268</x>
-<y>157</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>176</x>
-<y>205</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>176</x>
-<y>202</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>177</x>
-<y>199</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>178</x>
-<y>197</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>179</x>
-<y>193</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>179</x>
-<y>190</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>181</x>
-<y>186</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>181</x>
-<y>183</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>184</x>
-<y>177</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>186</x>
-<y>173</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>186</x>
-<y>171</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>189</x>
-<y>167</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>190</x>
-<y>165</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>191</x>
-<y>164</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>194</x>
-<y>159</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>195</x>
-<y>159</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>197</x>
-<y>156</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>200</x>
-<y>154</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>201</x>
-<y>151</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>203</x>
-<y>149</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>206</x>
-<y>147</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>207</x>
-<y>145</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>209</x>
-<y>143</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>211</x>
-<y>142</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>212</x>
-<y>140</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>214</x>
-<y>140</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>217</x>
-<y>139</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>219</x>
-<y>138</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>221</x>
-<y>137</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>224</x>
-<y>136</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>225</x>
-<y>136</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>231</x>
-<y>135</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>234</x>
-<y>135</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>239</x>
-<y>133</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>245</x>
-<y>132</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>249</x>
-<y>132</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>254</x>
-<y>130</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>257</x>
-<y>130</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>262</x>
-<y>130</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>267</x>
-<y>130</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>270</x>
-<y>130</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>275</x>
-<y>130</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>279</x>
-<y>130</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>283</x>
-<y>130</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>287</x>
-<y>130</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>291</x>
-<y>130</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>297</x>
-<y>130</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>302</x>
-<y>130</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>305</x>
-<y>130</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>310</x>
-<y>130</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>314</x>
-<y>130</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>317</x>
-<y>130</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>324</x>
-<y>132</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>327</x>
-<y>133</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>331</x>
-<y>135</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>333</x>
-<y>135</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>338</x>
-<y>138</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>339</x>
-<y>139</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>342</x>
-<y>140</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>348</x>
-<y>143</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>349</x>
-<y>144</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>353</x>
-<y>148</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>355</x>
-<y>150</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>357</x>
-<y>152</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>361</x>
-<y>159</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>364</x>
-<y>162</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>368</x>
-<y>168</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>370</x>
-<y>171</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>375</x>
-<y>179</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>378</x>
-<y>182</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>381</x>
-<y>187</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>381</x>
-<y>188</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>383</x>
-<y>192</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>384</x>
-<y>193</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>385</x>
-<y>196</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>386</x>
-<y>197</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>387</x>
-<y>199</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>388</x>
-<y>200</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>388</x>
-<y>201</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>182</x>
-<y>162</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>181</x>
-<y>162</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>179</x>
-<y>162</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>176</x>
-<y>159</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>173</x>
-<y>151</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>170</x>
-<y>146</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>169</x>
-<y>139</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>166</x>
-<y>131</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>163</x>
-<y>122</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>163</x>
-<y>114</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>161</x>
-<y>106</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>161</x>
-<y>99</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>161</x>
-<y>93</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>161</x>
-<y>88</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>161</x>
-<y>84</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>161</x>
-<y>80</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>163</x>
-<y>76</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>163</x>
-<y>75</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>165</x>
-<y>72</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>166</x>
-<y>69</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>167</x>
-<y>66</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>168</x>
-<y>64</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>169</x>
-<y>62</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>171</x>
-<y>60</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>172</x>
-<y>59</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>173</x>
-<y>57</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>174</x>
-<y>56</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>176</x>
-<y>55</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>177</x>
-<y>55</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>179</x>
-<y>54</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>181</x>
-<y>53</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>184</x>
-<y>53</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>186</x>
-<y>53</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>189</x>
-<y>53</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>192</x>
-<y>53</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>196</x>
-<y>53</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>200</x>
-<y>53</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>203</x>
-<y>53</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>208</x>
-<y>54</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>213</x>
-<y>57</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>217</x>
-<y>59</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>222</x>
-<y>61</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>228</x>
-<y>64</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>231</x>
-<y>64</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>234</x>
-<y>68</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>239</x>
-<y>71</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>241</x>
-<y>73</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>244</x>
-<y>75</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>246</x>
-<y>78</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>248</x>
-<y>81</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>250</x>
-<y>85</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>250</x>
-<y>88</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>251</x>
-<y>92</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>253</x>
-<y>97</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>254</x>
-<y>103</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>256</x>
-<y>109</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>256</x>
-<y>111</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>256</x>
-<y>114</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>256</x>
-<y>116</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>256</x>
-<y>118</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>256</x>
-<y>120</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>256</x>
-<y>121</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>256</x>
-<y>122</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>256</x>
-<y>123</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>256</x>
-<y>124</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>256</x>
-<y>125</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>256</x>
-<y>127</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>256</x>
-<y>126</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>256</x>
-<y>124</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>256</x>
-<y>120</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>257</x>
-<y>117</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>257</x>
-<y>115</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>258</x>
-<y>111</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>258</x>
-<y>108</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>258</x>
-<y>104</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>259</x>
-<y>102</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>261</x>
-<y>98</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>261</x>
-<y>96</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>264</x>
-<y>91</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>266</x>
-<y>89</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>266</x>
-<y>86</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>268</x>
-<y>83</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>269</x>
-<y>80</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>270</x>
-<y>78</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>273</x>
-<y>73</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>273</x>
-<y>72</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>275</x>
-<y>69</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>277</x>
-<y>67</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>280</x>
-<y>64</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>283</x>
-<y>63</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>286</x>
-<y>62</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>289</x>
-<y>60</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>295</x>
-<y>59</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>300</x>
-<y>57</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>305</x>
-<y>56</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>308</x>
-<y>56</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>312</x>
-<y>56</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>315</x>
-<y>56</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>320</x>
-<y>56</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>324</x>
-<y>56</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>330</x>
-<y>56</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>333</x>
-<y>56</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>337</x>
-<y>56</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>340</x>
-<y>57</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>343</x>
-<y>59</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>348</x>
-<y>61</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>350</x>
-<y>63</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>353</x>
-<y>65</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>356</x>
-<y>66</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>357</x>
-<y>69</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>358</x>
-<y>71</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>359</x>
-<y>73</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>360</x>
-<y>75</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>360</x>
-<y>79</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>360</x>
-<y>83</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>362</x>
-<y>88</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>362</x>
-<y>92</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>362</x>
-<y>99</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>362</x>
-<y>104</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>362</x>
-<y>109</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>362</x>
-<y>113</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>360</x>
-<y>119</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>359</x>
-<y>125</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>357</x>
-<y>128</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>357</x>
-<y>133</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>355</x>
-<y>135</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>355</x>
-<y>137</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>353</x>
-<y>138</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>353</x>
-<y>139</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>353</x>
-<y>140</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>353</x>
-<y>141</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>352</x>
-<y>141</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>351</x>
-<y>143</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>350</x>
-<y>143</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>350</x>
-<y>144</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>349</x>
-<y>144</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>348</x>
-<y>144</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>346</x>
-<y>144</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>177</x>
-<y>209</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>178</x>
-<y>209</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>179</x>
-<y>210</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>180</x>
-<y>211</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>180</x>
-<y>212</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>181</x>
-<y>213</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>181</x>
-<y>214</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>182</x>
-<y>218</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>184</x>
-<y>221</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>184</x>
-<y>223</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>184</x>
-<y>225</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>186</x>
-<y>227</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>186</x>
-<y>228</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>187</x>
-<y>230</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>188</x>
-<y>233</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>189</x>
-<y>234</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>191</x>
-<y>237</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>191</x>
-<y>239</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>193</x>
-<y>242</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>193</x>
-<y>243</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>194</x>
-<y>245</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>195</x>
-<y>250</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>196</x>
-<y>252</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>197</x>
-<y>253</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>198</x>
-<y>255</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>199</x>
-<y>259</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>200</x>
-<y>261</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>201</x>
-<y>262</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>202</x>
-<y>265</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>204</x>
-<y>267</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>205</x>
-<y>270</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>207</x>
-<y>273</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>208</x>
-<y>275</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>209</x>
-<y>277</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>211</x>
-<y>278</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>214</x>
-<y>283</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>216</x>
-<y>287</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>219</x>
-<y>289</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>222</x>
-<y>293</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>224</x>
-<y>294</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>226</x>
-<y>297</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>228</x>
-<y>298</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>229</x>
-<y>299</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>230</x>
-<y>300</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>231</x>
-<y>301</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>232</x>
-<y>302</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>234</x>
-<y>304</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>235</x>
-<y>305</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>237</x>
-<y>306</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>239</x>
-<y>307</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>242</x>
-<y>310</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>245</x>
-<y>311</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>250</x>
-<y>315</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>256</x>
-<y>318</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>259</x>
-<y>319</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>263</x>
-<y>321</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>269</x>
-<y>322</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>271</x>
-<y>322</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>275</x>
-<y>323</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>280</x>
-<y>323</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>282</x>
-<y>323</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>284</x>
-<y>323</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>285</x>
-<y>323</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>288</x>
-<y>323</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>290</x>
-<y>323</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>292</x>
-<y>323</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>295</x>
-<y>322</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>297</x>
-<y>321</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>300</x>
-<y>320</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>301</x>
-<y>320</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>303</x>
-<y>320</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>305</x>
-<y>319</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>307</x>
-<y>318</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>309</x>
-<y>318</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>311</x>
-<y>317</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>313</x>
-<y>315</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>315</x>
-<y>313</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>319</x>
-<y>312</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>322</x>
-<y>308</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>326</x>
-<y>305</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>329</x>
-<y>304</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>332</x>
-<y>301</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>335</x>
-<y>299</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>338</x>
-<y>297</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>342</x>
-<y>294</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>344</x>
-<y>292</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>349</x>
-<y>287</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>352</x>
-<y>284</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>355</x>
-<y>279</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>359</x>
-<y>274</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>363</x>
-<y>269</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>367</x>
-<y>263</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>368</x>
-<y>260</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>369</x>
-<y>257</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>370</x>
-<y>253</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>373</x>
-<y>249</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>375</x>
-<y>245</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>375</x>
-<y>242</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>375</x>
-<y>239</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>378</x>
-<y>237</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>378</x>
-<y>235</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>378</x>
-<y>233</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>379</x>
-<y>231</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>380</x>
-<y>231</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>380</x>
-<y>230</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>380</x>
-<y>228</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>381</x>
-<y>228</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>381</x>
-<y>227</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>382</x>
-<y>226</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>382</x>
-<y>225</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>169</x>
-<y>191</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>169</x>
-<y>190</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>169</x>
-<y>188</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>168</x>
-<y>183</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>168</x>
-<y>181</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>166</x>
-<y>177</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>166</x>
-<y>174</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>165</x>
-<y>169</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>163</x>
-<y>164</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>162</x>
-<y>161</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>161</x>
-<y>156</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>161</x>
-<y>154</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>160</x>
-<y>151</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>158</x>
-<y>147</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>158</x>
-<y>144</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>157</x>
-<y>142</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>156</x>
-<y>137</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>156</x>
-<y>135</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>155</x>
-<y>132</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>154</x>
-<y>129</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>153</x>
-<y>128</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>153</x>
-<y>124</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>153</x>
-<y>121</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>153</x>
-<y>118</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>153</x>
-<y>114</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>153</x>
-<y>111</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>151</x>
-<y>107</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>151</x>
-<y>105</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>151</x>
-<y>102</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>151</x>
-<y>97</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>151</x>
-<y>94</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>151</x>
-<y>91</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>153</x>
-<y>87</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>153</x>
-<y>84</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>156</x>
-<y>79</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>158</x>
-<y>77</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>158</x>
-<y>74</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>160</x>
-<y>71</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>160</x>
-<y>69</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>160</x>
-<y>67</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>161</x>
-<y>65</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>162</x>
-<y>63</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>163</x>
-<y>61</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>164</x>
-<y>58</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>165</x>
-<y>56</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>166</x>
-<y>55</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>167</x>
-<y>53</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>169</x>
-<y>52</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>169</x>
-<y>51</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>171</x>
-<y>49</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>172</x>
-<y>49</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>174</x>
-<y>47</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>176</x>
-<y>47</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>178</x>
-<y>45</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>180</x>
-<y>45</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>183</x>
-<y>44</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>189</x>
-<y>42</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>191</x>
-<y>42</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>197</x>
-<y>40</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>205</x>
-<y>37</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>210</x>
-<y>37</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>219</x>
-<y>36</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>227</x>
-<y>36</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>236</x>
-<y>34</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>246</x>
-<y>33</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>255</x>
-<y>30</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>266</x>
-<y>29</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>274</x>
-<y>29</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>283</x>
-<y>29</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>291</x>
-<y>29</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>299</x>
-<y>29</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>307</x>
-<y>29</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>315</x>
-<y>29</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>322</x>
-<y>29</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>329</x>
-<y>29</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>334</x>
-<y>29</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>338</x>
-<y>29</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>344</x>
-<y>29</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>349</x>
-<y>29</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>355</x>
-<y>29</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>359</x>
-<y>30</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>362</x>
-<y>32</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>367</x>
-<y>33</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>373</x>
-<y>35</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>377</x>
-<y>36</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>380</x>
-<y>38</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>384</x>
-<y>41</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>388</x>
-<y>44</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>390</x>
-<y>48</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>393</x>
-<y>54</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>396</x>
-<y>60</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>399</x>
-<y>65</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>401</x>
-<y>74</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>402</x>
-<y>82</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>404</x>
-<y>89</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>404</x>
-<y>96</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>405</x>
-<y>105</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>405</x>
-<y>113</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>405</x>
-<y>120</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>405</x>
-<y>128</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>404</x>
-<y>135</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>402</x>
-<y>143</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>399</x>
-<y>153</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>398</x>
-<y>160</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>396</x>
-<y>166</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>395</x>
-<y>170</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>393</x>
-<y>173</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>393</x>
-<y>175</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>392</x>
-<y>178</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>391</x>
-<y>179</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>211</x>
-<y>143</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>211</x>
-<y>141</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>211</x>
-<y>140</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>211</x>
-<y>137</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>211</x>
-<y>134</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>211</x>
-<y>132</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>211</x>
-<y>130</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>209</x>
-<y>127</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>207</x>
-<y>124</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>206</x>
-<y>121</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>204</x>
-<y>119</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>204</x>
-<y>117</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>202</x>
-<y>115</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>202</x>
-<y>114</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>202</x>
-<y>113</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>202</x>
-<y>112</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>202</x>
-<y>111</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>202</x>
-<y>109</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>202</x>
-<y>108</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>203</x>
-<y>106</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>206</x>
-<y>105</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>210</x>
-<y>104</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>213</x>
-<y>104</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>214</x>
-<y>104</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>215</x>
-<y>104</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>217</x>
-<y>104</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>218</x>
-<y>104</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>220</x>
-<y>104</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>222</x>
-<y>105</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>223</x>
-<y>107</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>223</x>
-<y>110</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>224</x>
-<y>114</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>226</x>
-<y>117</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>226</x>
-<y>120</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>229</x>
-<y>123</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>229</x>
-<y>124</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>229</x>
-<y>126</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>229</x>
-<y>128</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>279</x>
-<y>127</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>279</x>
-<y>125</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>281</x>
-<y>123</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>281</x>
-<y>121</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>281</x>
-<y>118</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>281</x>
-<y>116</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>282</x>
-<y>114</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>283</x>
-<y>113</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>285</x>
-<y>111</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>285</x>
-<y>110</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>285</x>
-<y>109</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>285</x>
-<y>108</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>286</x>
-<y>108</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>287</x>
-<y>108</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>287</x>
-<y>107</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>288</x>
-<y>106</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>290</x>
-<y>106</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>292</x>
-<y>106</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>294</x>
-<y>106</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>296</x>
-<y>106</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>298</x>
-<y>106</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>301</x>
-<y>106</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>302</x>
-<y>106</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>304</x>
-<y>106</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>306</x>
-<y>108</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>307</x>
-<y>110</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>309</x>
-<y>114</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>310</x>
-<y>114</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>311</x>
-<y>117</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>312</x>
-<y>119</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>313</x>
-<y>120</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>313</x>
-<y>122</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>314</x>
-<y>123</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>314</x>
-<y>124</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>315</x>
-<y>125</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>315</x>
-<y>127</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>316</x>
-<y>128</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>316</x>
-<y>130</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>316</x>
-<y>132</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>316</x>
-<y>133</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>316</x>
-<y>134</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>316</x>
-<y>135</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>236</x>
-<y>260</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>237</x>
-<y>260</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>238</x>
-<y>260</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>239</x>
-<y>262</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>240</x>
-<y>262</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>243</x>
-<y>263</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>244</x>
-<y>265</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>245</x>
-<y>266</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>248</x>
-<y>268</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>249</x>
-<y>269</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>251</x>
-<y>270</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>253</x>
-<y>271</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>255</x>
-<y>273</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>258</x>
-<y>274</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>260</x>
-<y>276</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>262</x>
-<y>277</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>264</x>
-<y>278</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>265</x>
-<y>279</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>268</x>
-<y>281</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>269</x>
-<y>282</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>271</x>
-<y>283</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>274</x>
-<y>284</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>275</x>
-<y>284</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>276</x>
-<y>286</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>278</x>
-<y>287</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>279</x>
-<y>287</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>282</x>
-<y>287</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>284</x>
-<y>288</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>286</x>
-<y>288</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>291</x>
-<y>288</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>296</x>
-<y>288</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>301</x>
-<y>288</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>306</x>
-<y>288</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>314</x>
-<y>286</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>318</x>
-<y>285</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>322</x>
-<y>283</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>324</x>
-<y>283</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>326</x>
-<y>283</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>327</x>
-<y>281</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>328</x>
-<y>281</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>330</x>
-<y>280</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>331</x>
-<y>278</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>333</x>
-<y>277</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>333</x>
-<y>274</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>338</x>
-<y>269</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>338</x>
-<y>267</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>341</x>
-<y>264</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>342</x>
-<y>260</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>344</x>
-<y>259</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>345</x>
-<y>257</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>345</x>
-<y>256</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>489</x>
-<y>272</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>491</x>
-<y>272</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>493</x>
-<y>274</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>496</x>
-<y>278</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>499</x>
-<y>284</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>503</x>
-<y>293</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>506</x>
-<y>301</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>512</x>
-<y>311</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>516</x>
-<y>322</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>521</x>
-<y>332</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>527</x>
-<y>344</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>532</x>
-<y>355</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>536</x>
-<y>365</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>541</x>
-<y>376</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>546</x>
-<y>383</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>552</x>
-<y>391</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>557</x>
-<y>398</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>561</x>
-<y>403</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>564</x>
-<y>407</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>565</x>
-<y>407</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>566</x>
-<y>409</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>568</x>
-<y>410</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>568</x>
-<y>411</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>571</x>
-<y>412</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>573</x>
-<y>413</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>576</x>
-<y>413</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>580</x>
-<y>414</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>585</x>
-<y>415</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>590</x>
-<y>417</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>593</x>
-<y>417</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>596</x>
-<y>418</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>600</x>
-<y>418</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>604</x>
-<y>418</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>608</x>
-<y>418</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>612</x>
-<y>418</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>614</x>
-<y>418</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>619</x>
-<y>418</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>625</x>
-<y>418</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>629</x>
-<y>418</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>633</x>
-<y>418</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>639</x>
-<y>417</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>642</x>
-<y>415</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>645</x>
-<y>415</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>648</x>
-<y>413</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>649</x>
-<y>412</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>650</x>
-<y>412</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>653</x>
-<y>410</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>657</x>
-<y>409</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>661</x>
-<y>408</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>663</x>
-<y>408</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>665</x>
-<y>406</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>666</x>
-<y>406</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>667</x>
-<y>406</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>668</x>
-<y>406</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>670</x>
-<y>406</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>675</x>
-<y>406</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>678</x>
-<y>406</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>682</x>
-<y>406</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>685</x>
-<y>406</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>687</x>
-<y>406</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>691</x>
-<y>406</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>693</x>
-<y>406</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>696</x>
-<y>406</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>698</x>
-<y>406</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>700</x>
-<y>406</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>702</x>
-<y>406</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>705</x>
-<y>406</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>709</x>
-<y>405</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>713</x>
-<y>405</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>717</x>
-<y>404</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>721</x>
-<y>404</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>723</x>
-<y>403</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>725</x>
-<y>401</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>727</x>
-<y>401</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>729</x>
-<y>399</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>730</x>
-<y>398</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>731</x>
-<y>397</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>732</x>
-<y>396</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>732</x>
-<y>394</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>734</x>
-<y>392</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>735</x>
-<y>390</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>736</x>
-<y>388</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>737</x>
-<y>384</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>739</x>
-<y>380</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>743</x>
-<y>374</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>746</x>
-<y>369</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>749</x>
-<y>362</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>750</x>
-<y>358</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>753</x>
-<y>350</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>757</x>
-<y>342</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>760</x>
-<y>336</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>760</x>
-<y>332</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>763</x>
-<y>327</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>765</x>
-<y>321</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>767</x>
-<y>317</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>771</x>
-<y>313</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>772</x>
-<y>309</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>773</x>
-<y>306</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>776</x>
-<y>301</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>777</x>
-<y>300</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>778</x>
-<y>294</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>779</x>
-<y>290</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>781</x>
-<y>285</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>781</x>
-<y>284</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>782</x>
-<y>280</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>784</x>
-<y>277</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>784</x>
-<y>275</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>784</x>
-<y>273</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>784</x>
-<y>272</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>784</x>
-<y>271</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>784</x>
-<y>270</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>784</x>
-<y>269</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>786</x>
-<y>268</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>786</x>
-<y>267</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>786</x>
-<y>266</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>786</x>
-<y>264</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>786</x>
-<y>262</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>786</x>
-<y>261</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>786</x>
-<y>260</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>786</x>
-<y>258</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>785</x>
-<y>258</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>785</x>
-<y>257</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>784</x>
-<y>256</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>783</x>
-<y>255</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>782</x>
-<y>255</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>781</x>
-<y>253</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>780</x>
-<y>252</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>779</x>
-<y>251</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>779</x>
-<y>250</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>778</x>
-<y>249</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>777</x>
-<y>248</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>777</x>
-<y>247</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>777</x>
-<y>245</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>777</x>
-<y>244</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>777</x>
-<y>242</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>777</x>
-<y>241</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>775</x>
-<y>240</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>771</x>
-<y>240</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>765</x>
-<y>240</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>755</x>
-<y>240</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>745</x>
-<y>240</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>731</x>
-<y>242</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>719</x>
-<y>243</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>706</x>
-<y>243</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>693</x>
-<y>243</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>680</x>
-<y>243</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>666</x>
-<y>243</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>650</x>
-<y>243</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>638</x>
-<y>243</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>626</x>
-<y>243</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>614</x>
-<y>243</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>604</x>
-<y>243</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>594</x>
-<y>243</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>585</x>
-<y>243</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>577</x>
-<y>243</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>572</x>
-<y>243</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>569</x>
-<y>243</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>565</x>
-<y>243</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>563</x>
-<y>243</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>560</x>
-<y>243</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>558</x>
-<y>243</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>556</x>
-<y>243</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>554</x>
-<y>243</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>550</x>
-<y>243</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>547</x>
-<y>243</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>542</x>
-<y>243</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>536</x>
-<y>243</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>532</x>
-<y>243</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>529</x>
-<y>243</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>525</x>
-<y>243</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>523</x>
-<y>243</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>520</x>
-<y>243</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>516</x>
-<y>243</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>513</x>
-<y>243</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>509</x>
-<y>243</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>506</x>
-<y>243</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>504</x>
-<y>243</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>502</x>
-<y>243</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>500</x>
-<y>243</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>498</x>
-<y>243</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>496</x>
-<y>244</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>495</x>
-<y>245</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>494</x>
-<y>245</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>491</x>
-<y>245</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>490</x>
-<y>245</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>487</x>
-<y>245</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>483</x>
-<y>247</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>480</x>
-<y>247</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>477</x>
-<y>247</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>473</x>
-<y>248</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>472</x>
-<y>248</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>470</x>
-<y>249</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>470</x>
-<y>251</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>470</x>
-<y>253</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>470</x>
-<y>256</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>471</x>
-<y>258</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>472</x>
-<y>258</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>796</x>
-<y>280</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>797</x>
-<y>280</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>800</x>
-<y>280</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>803</x>
-<y>280</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>808</x>
-<y>280</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>816</x>
-<y>280</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>821</x>
-<y>280</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>829</x>
-<y>280</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>837</x>
-<y>280</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>846</x>
-<y>280</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>852</x>
-<y>280</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>854</x>
-<y>280</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>855</x>
-<y>280</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>856</x>
-<y>280</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>856</x>
-<y>283</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>856</x>
-<y>286</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>856</x>
-<y>292</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>856</x>
-<y>295</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>856</x>
-<y>297</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>853</x>
-<y>303</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>852</x>
-<y>303</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>848</x>
-<y>305</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>846</x>
-<y>307</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>843</x>
-<y>308</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>838</x>
-<y>310</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>836</x>
-<y>310</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>833</x>
-<y>310</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>829</x>
-<y>310</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>827</x>
-<y>310</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>822</x>
-<y>310</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>820</x>
-<y>310</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>815</x>
-<y>310</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>812</x>
-<y>310</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>807</x>
-<y>310</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>804</x>
-<y>310</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>800</x>
-<y>310</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>799</x>
-<y>310</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>797</x>
-<y>310</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>796</x>
-<y>310</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>795</x>
-<y>310</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>792</x>
-<y>310</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>790</x>
-<y>310</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>788</x>
-<y>310</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>786</x>
-<y>310</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>784</x>
-<y>310</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>783</x>
-<y>310</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>782</x>
-<y>310</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>781</x>
-<y>310</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>780</x>
-<y>310</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>777</x>
-<y>310</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>620</x>
-<y>217</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>622</x>
-<y>217</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>622</x>
-<y>216</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>622</x>
-<y>214</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>622</x>
-<y>210</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>619</x>
-<y>206</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>616</x>
-<y>200</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>612</x>
-<y>197</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>611</x>
-<y>193</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>609</x>
-<y>190</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>606</x>
-<y>186</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>604</x>
-<y>182</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>600</x>
-<y>178</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>596</x>
-<y>175</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>596</x>
-<y>173</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>593</x>
-<y>170</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>592</x>
-<y>168</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>591</x>
-<y>166</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>590</x>
-<y>165</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>589</x>
-<y>162</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>589</x>
-<y>161</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>589</x>
-<y>159</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>589</x>
-<y>158</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>589</x>
-<y>157</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>589</x>
-<y>156</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>589</x>
-<y>154</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>589</x>
-<y>150</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>593</x>
-<y>148</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>599</x>
-<y>145</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>604</x>
-<y>142</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>608</x>
-<y>141</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>610</x>
-<y>139</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>615</x>
-<y>137</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>617</x>
-<y>136</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>619</x>
-<y>135</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>620</x>
-<y>134</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>621</x>
-<y>133</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>622</x>
-<y>132</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>622</x>
-<y>131</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>622</x>
-<y>128</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>622</x>
-<y>125</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>621</x>
-<y>119</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>616</x>
-<y>115</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>609</x>
-<y>110</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>601</x>
-<y>106</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>597</x>
-<y>103</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>593</x>
-<y>101</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>589</x>
-<y>98</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>585</x>
-<y>95</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>583</x>
-<y>93</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>581</x>
-<y>91</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>580</x>
-<y>90</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>578</x>
-<y>88</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>576</x>
-<y>83</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>576</x>
-<y>82</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>575</x>
-<y>78</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>574</x>
-<y>75</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>574</x>
-<y>74</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>574</x>
-<y>71</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>574</x>
-<y>68</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>575</x>
-<y>66</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>577</x>
-<y>63</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>581</x>
-<y>59</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>584</x>
-<y>56</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>586</x>
-<y>53</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>590</x>
-<y>50</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>593</x>
-<y>46</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>597</x>
-<y>42</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>602</x>
-<y>39</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>607</x>
-<y>34</y>
-<color>BLUE</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>659</x>
-<y>231</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>659</x>
-<y>229</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>659</x>
-<y>228</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>659</x>
-<y>226</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>659</x>
-<y>224</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>659</x>
-<y>222</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>659</x>
-<y>220</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>657</x>
-<y>216</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>657</x>
-<y>214</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>655</x>
-<y>209</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>654</x>
-<y>208</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>653</x>
-<y>207</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>653</x>
-<y>204</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>650</x>
-<y>202</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>650</x>
-<y>200</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>649</x>
-<y>197</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>647</x>
-<y>195</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>645</x>
-<y>191</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>642</x>
-<y>187</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>640</x>
-<y>184</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>637</x>
-<y>182</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>635</x>
-<y>180</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>633</x>
-<y>177</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>631</x>
-<y>175</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>628</x>
-<y>173</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>627</x>
-<y>172</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>625</x>
-<y>171</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>623</x>
-<y>170</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>622</x>
-<y>168</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>622</x>
-<y>167</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>620</x>
-<y>164</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>619</x>
-<y>162</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>618</x>
-<y>158</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>617</x>
-<y>152</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>617</x>
-<y>149</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>617</x>
-<y>145</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>617</x>
-<y>143</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>617</x>
-<y>139</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>617</x>
-<y>136</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>620</x>
-<y>132</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>624</x>
-<y>128</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>628</x>
-<y>122</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>630</x>
-<y>120</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>634</x>
-<y>116</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>637</x>
-<y>112</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>641</x>
-<y>108</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>641</x>
-<y>105</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>643</x>
-<y>100</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>644</x>
-<y>95</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>645</x>
-<y>92</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>645</x>
-<y>87</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>645</x>
-<y>82</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>645</x>
-<y>76</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>645</x>
-<y>72</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>645</x>
-<y>68</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>645</x>
-<y>64</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>645</x>
-<y>58</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>642</x>
-<y>55</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>638</x>
-<y>50</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>636</x>
-<y>47</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>632</x>
-<y>42</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>629</x>
-<y>38</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>624</x>
-<y>33</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>618</x>
-<y>29</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>612</x>
-<y>24</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>607</x>
-<y>20</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>601</x>
-<y>15</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>597</x>
-<y>13</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>594</x>
-<y>10</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>589</x>
-<y>6</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>587</x>
-<y>5</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>604</x>
-<y>232</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>604</x>
-<y>230</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>604</x>
-<y>227</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>604</x>
-<y>224</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>603</x>
-<y>219</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>598</x>
-<y>212</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>592</x>
-<y>205</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>586</x>
-<y>196</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>579</x>
-<y>187</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>567</x>
-<y>178</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>558</x>
-<y>169</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>545</x>
-<y>160</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>533</x>
-<y>150</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>524</x>
-<y>138</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>514</x>
-<y>131</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>506</x>
-<y>123</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>502</x>
-<y>115</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>500</x>
-<y>106</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>500</x>
-<y>101</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>500</x>
-<y>95</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>500</x>
-<y>87</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>500</x>
-<y>82</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>500</x>
-<y>76</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>503</x>
-<y>69</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>506</x>
-<y>65</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>511</x>
-<y>58</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>514</x>
-<y>54</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>517</x>
-<y>50</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>520</x>
-<y>47</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>520</x>
-<y>45</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>521</x>
-<y>41</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>521</x>
-<y>38</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>521</x>
-<y>35</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>520</x>
-<y>29</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>517</x>
-<y>26</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>514</x>
-<y>21</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>510</x>
-<y>16</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>508</x>
-<y>11</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>505</x>
-<y>9</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>502</x>
-<y>4</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>502</x>
-<y>3</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>776</x>
-<y>324</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>776</x>
-<y>325</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>779</x>
-<y>325</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>786</x>
-<y>325</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>794</x>
-<y>325</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>802</x>
-<y>325</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>812</x>
-<y>325</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>823</x>
-<y>325</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>840</x>
-<y>325</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>854</x>
-<y>325</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>871</x>
-<y>324</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>879</x>
-<y>322</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>890</x>
-<y>321</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>899</x>
-<y>319</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>904</x>
-<y>318</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>907</x>
-<y>317</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>910</x>
-<y>315</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>911</x>
-<y>314</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>912</x>
-<y>312</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>912</x>
-<y>310</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>912</x>
-<y>308</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>912</x>
-<y>304</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>912</x>
-<y>302</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>912</x>
-<y>299</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>912</x>
-<y>297</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>912</x>
-<y>293</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>910</x>
-<y>290</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>910</x>
-<y>288</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>907</x>
-<y>285</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>905</x>
-<y>283</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>902</x>
-<y>280</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>899</x>
-<y>277</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>894</x>
-<y>274</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>891</x>
-<y>271</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>884</x>
-<y>268</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>878</x>
-<y>265</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>870</x>
-<y>261</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>866</x>
-<y>259</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>858</x>
-<y>257</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>854</x>
-<y>256</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>850</x>
-<y>255</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>844</x>
-<y>254</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>839</x>
-<y>254</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>832</x>
-<y>252</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>826</x>
-<y>252</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>821</x>
-<y>252</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>814</x>
-<y>252</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>810</x>
-<y>252</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>806</x>
-<y>252</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>803</x>
-<y>252</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>799</x>
-<y>252</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>796</x>
-<y>252</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>795</x>
-<y>252</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>794</x>
-<y>252</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
-<shape>
-<x>793</x>
-<y>252</y>
-<color>RED</color>
-<type>CIRCLE</type>
-</shape>
+    <shape>
+        <x>248</x>
+        <y>153</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>248</x>
+        <y>154</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>248</x>
+        <y>158</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>247</x>
+        <y>163</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>245</x>
+        <y>169</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>244</x>
+        <y>175</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>242</x>
+        <y>182</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>242</x>
+        <y>190</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>241</x>
+        <y>195</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>239</x>
+        <y>201</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>239</x>
+        <y>207</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>239</x>
+        <y>210</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>239</x>
+        <y>215</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>239</x>
+        <y>219</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>239</x>
+        <y>221</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>239</x>
+        <y>224</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>239</x>
+        <y>226</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>241</x>
+        <y>228</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>241</x>
+        <y>231</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>243</x>
+        <y>234</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>244</x>
+        <y>235</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>244</x>
+        <y>238</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>245</x>
+        <y>240</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>247</x>
+        <y>242</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>247</x>
+        <y>243</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>247</x>
+        <y>246</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>250</x>
+        <y>251</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>251</x>
+        <y>254</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>253</x>
+        <y>256</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>254</x>
+        <y>257</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>257</x>
+        <y>261</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>258</x>
+        <y>262</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>260</x>
+        <y>263</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>262</x>
+        <y>265</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>263</x>
+        <y>266</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>265</x>
+        <y>267</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>268</x>
+        <y>268</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>269</x>
+        <y>269</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>271</x>
+        <y>269</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>273</x>
+        <y>270</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>274</x>
+        <y>270</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>276</x>
+        <y>270</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>277</x>
+        <y>270</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>279</x>
+        <y>270</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>281</x>
+        <y>270</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>284</x>
+        <y>269</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>286</x>
+        <y>267</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>291</x>
+        <y>264</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>293</x>
+        <y>263</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>297</x>
+        <y>259</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>301</x>
+        <y>258</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>303</x>
+        <y>255</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>307</x>
+        <y>248</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>309</x>
+        <y>246</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>311</x>
+        <y>241</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>313</x>
+        <y>237</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>314</x>
+        <y>234</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>314</x>
+        <y>231</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>315</x>
+        <y>226</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>315</x>
+        <y>222</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>315</x>
+        <y>219</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>315</x>
+        <y>215</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>315</x>
+        <y>212</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>315</x>
+        <y>209</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>315</x>
+        <y>206</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>315</x>
+        <y>204</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>315</x>
+        <y>202</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>315</x>
+        <y>199</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>314</x>
+        <y>195</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>313</x>
+        <y>193</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>312</x>
+        <y>190</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>309</x>
+        <y>187</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>307</x>
+        <y>183</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>305</x>
+        <y>181</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>302</x>
+        <y>177</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>301</x>
+        <y>174</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>297</x>
+        <y>171</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>295</x>
+        <y>168</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>292</x>
+        <y>164</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>291</x>
+        <y>163</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>289</x>
+        <y>161</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>286</x>
+        <y>159</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>284</x>
+        <y>158</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>284</x>
+        <y>157</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>283</x>
+        <y>157</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>281</x>
+        <y>156</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>280</x>
+        <y>155</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>279</x>
+        <y>155</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>278</x>
+        <y>155</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>276</x>
+        <y>155</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>274</x>
+        <y>155</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>273</x>
+        <y>155</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>272</x>
+        <y>155</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>271</x>
+        <y>155</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>270</x>
+        <y>156</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>269</x>
+        <y>156</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>268</x>
+        <y>157</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>176</x>
+        <y>205</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>176</x>
+        <y>202</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>177</x>
+        <y>199</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>178</x>
+        <y>197</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>179</x>
+        <y>193</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>179</x>
+        <y>190</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>181</x>
+        <y>186</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>181</x>
+        <y>183</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>184</x>
+        <y>177</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>186</x>
+        <y>173</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>186</x>
+        <y>171</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>189</x>
+        <y>167</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>190</x>
+        <y>165</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>191</x>
+        <y>164</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>194</x>
+        <y>159</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>195</x>
+        <y>159</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>197</x>
+        <y>156</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>200</x>
+        <y>154</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>201</x>
+        <y>151</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>203</x>
+        <y>149</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>206</x>
+        <y>147</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>207</x>
+        <y>145</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>209</x>
+        <y>143</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>211</x>
+        <y>142</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>212</x>
+        <y>140</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>214</x>
+        <y>140</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>217</x>
+        <y>139</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>219</x>
+        <y>138</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>221</x>
+        <y>137</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>224</x>
+        <y>136</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>225</x>
+        <y>136</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>231</x>
+        <y>135</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>234</x>
+        <y>135</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>239</x>
+        <y>133</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>245</x>
+        <y>132</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>249</x>
+        <y>132</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>254</x>
+        <y>130</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>257</x>
+        <y>130</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>262</x>
+        <y>130</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>267</x>
+        <y>130</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>270</x>
+        <y>130</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>275</x>
+        <y>130</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>279</x>
+        <y>130</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>283</x>
+        <y>130</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>287</x>
+        <y>130</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>291</x>
+        <y>130</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>297</x>
+        <y>130</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>302</x>
+        <y>130</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>305</x>
+        <y>130</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>310</x>
+        <y>130</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>314</x>
+        <y>130</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>317</x>
+        <y>130</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>324</x>
+        <y>132</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>327</x>
+        <y>133</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>331</x>
+        <y>135</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>333</x>
+        <y>135</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>338</x>
+        <y>138</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>339</x>
+        <y>139</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>342</x>
+        <y>140</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>348</x>
+        <y>143</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>349</x>
+        <y>144</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>353</x>
+        <y>148</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>355</x>
+        <y>150</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>357</x>
+        <y>152</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>361</x>
+        <y>159</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>364</x>
+        <y>162</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>368</x>
+        <y>168</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>370</x>
+        <y>171</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>375</x>
+        <y>179</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>378</x>
+        <y>182</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>381</x>
+        <y>187</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>381</x>
+        <y>188</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>383</x>
+        <y>192</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>384</x>
+        <y>193</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>385</x>
+        <y>196</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>386</x>
+        <y>197</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>387</x>
+        <y>199</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>388</x>
+        <y>200</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>388</x>
+        <y>201</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>182</x>
+        <y>162</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>181</x>
+        <y>162</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>179</x>
+        <y>162</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>176</x>
+        <y>159</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>173</x>
+        <y>151</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>170</x>
+        <y>146</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>169</x>
+        <y>139</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>166</x>
+        <y>131</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>163</x>
+        <y>122</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>163</x>
+        <y>114</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>161</x>
+        <y>106</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>161</x>
+        <y>99</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>161</x>
+        <y>93</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>161</x>
+        <y>88</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>161</x>
+        <y>84</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>161</x>
+        <y>80</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>163</x>
+        <y>76</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>163</x>
+        <y>75</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>165</x>
+        <y>72</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>166</x>
+        <y>69</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>167</x>
+        <y>66</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>168</x>
+        <y>64</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>169</x>
+        <y>62</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>171</x>
+        <y>60</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>172</x>
+        <y>59</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>173</x>
+        <y>57</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>174</x>
+        <y>56</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>176</x>
+        <y>55</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>177</x>
+        <y>55</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>179</x>
+        <y>54</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>181</x>
+        <y>53</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>184</x>
+        <y>53</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>186</x>
+        <y>53</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>189</x>
+        <y>53</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>192</x>
+        <y>53</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>196</x>
+        <y>53</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>200</x>
+        <y>53</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>203</x>
+        <y>53</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>208</x>
+        <y>54</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>213</x>
+        <y>57</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>217</x>
+        <y>59</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>222</x>
+        <y>61</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>228</x>
+        <y>64</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>231</x>
+        <y>64</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>234</x>
+        <y>68</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>239</x>
+        <y>71</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>241</x>
+        <y>73</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>244</x>
+        <y>75</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>246</x>
+        <y>78</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>248</x>
+        <y>81</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>250</x>
+        <y>85</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>250</x>
+        <y>88</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>251</x>
+        <y>92</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>253</x>
+        <y>97</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>254</x>
+        <y>103</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>256</x>
+        <y>109</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>256</x>
+        <y>111</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>256</x>
+        <y>114</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>256</x>
+        <y>116</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>256</x>
+        <y>118</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>256</x>
+        <y>120</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>256</x>
+        <y>121</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>256</x>
+        <y>122</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>256</x>
+        <y>123</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>256</x>
+        <y>124</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>256</x>
+        <y>125</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>256</x>
+        <y>127</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>256</x>
+        <y>126</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>256</x>
+        <y>124</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>256</x>
+        <y>120</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>257</x>
+        <y>117</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>257</x>
+        <y>115</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>258</x>
+        <y>111</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>258</x>
+        <y>108</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>258</x>
+        <y>104</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>259</x>
+        <y>102</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>261</x>
+        <y>98</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>261</x>
+        <y>96</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>264</x>
+        <y>91</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>266</x>
+        <y>89</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>266</x>
+        <y>86</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>268</x>
+        <y>83</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>269</x>
+        <y>80</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>270</x>
+        <y>78</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>273</x>
+        <y>73</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>273</x>
+        <y>72</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>275</x>
+        <y>69</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>277</x>
+        <y>67</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>280</x>
+        <y>64</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>283</x>
+        <y>63</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>286</x>
+        <y>62</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>289</x>
+        <y>60</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>295</x>
+        <y>59</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>300</x>
+        <y>57</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>305</x>
+        <y>56</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>308</x>
+        <y>56</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>312</x>
+        <y>56</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>315</x>
+        <y>56</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>320</x>
+        <y>56</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>324</x>
+        <y>56</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>330</x>
+        <y>56</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>333</x>
+        <y>56</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>337</x>
+        <y>56</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>340</x>
+        <y>57</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>343</x>
+        <y>59</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>348</x>
+        <y>61</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>350</x>
+        <y>63</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>353</x>
+        <y>65</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>356</x>
+        <y>66</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>357</x>
+        <y>69</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>358</x>
+        <y>71</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>359</x>
+        <y>73</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>360</x>
+        <y>75</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>360</x>
+        <y>79</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>360</x>
+        <y>83</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>362</x>
+        <y>88</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>362</x>
+        <y>92</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>362</x>
+        <y>99</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>362</x>
+        <y>104</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>362</x>
+        <y>109</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>362</x>
+        <y>113</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>360</x>
+        <y>119</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>359</x>
+        <y>125</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>357</x>
+        <y>128</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>357</x>
+        <y>133</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>355</x>
+        <y>135</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>355</x>
+        <y>137</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>353</x>
+        <y>138</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>353</x>
+        <y>139</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>353</x>
+        <y>140</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>353</x>
+        <y>141</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>352</x>
+        <y>141</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>351</x>
+        <y>143</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>350</x>
+        <y>143</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>350</x>
+        <y>144</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>349</x>
+        <y>144</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>348</x>
+        <y>144</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>346</x>
+        <y>144</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>177</x>
+        <y>209</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>178</x>
+        <y>209</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>179</x>
+        <y>210</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>180</x>
+        <y>211</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>180</x>
+        <y>212</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>181</x>
+        <y>213</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>181</x>
+        <y>214</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>182</x>
+        <y>218</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>184</x>
+        <y>221</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>184</x>
+        <y>223</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>184</x>
+        <y>225</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>186</x>
+        <y>227</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>186</x>
+        <y>228</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>187</x>
+        <y>230</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>188</x>
+        <y>233</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>189</x>
+        <y>234</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>191</x>
+        <y>237</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>191</x>
+        <y>239</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>193</x>
+        <y>242</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>193</x>
+        <y>243</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>194</x>
+        <y>245</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>195</x>
+        <y>250</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>196</x>
+        <y>252</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>197</x>
+        <y>253</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>198</x>
+        <y>255</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>199</x>
+        <y>259</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>200</x>
+        <y>261</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>201</x>
+        <y>262</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>202</x>
+        <y>265</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>204</x>
+        <y>267</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>205</x>
+        <y>270</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>207</x>
+        <y>273</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>208</x>
+        <y>275</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>209</x>
+        <y>277</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>211</x>
+        <y>278</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>214</x>
+        <y>283</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>216</x>
+        <y>287</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>219</x>
+        <y>289</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>222</x>
+        <y>293</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>224</x>
+        <y>294</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>226</x>
+        <y>297</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>228</x>
+        <y>298</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>229</x>
+        <y>299</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>230</x>
+        <y>300</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>231</x>
+        <y>301</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>232</x>
+        <y>302</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>234</x>
+        <y>304</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>235</x>
+        <y>305</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>237</x>
+        <y>306</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>239</x>
+        <y>307</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>242</x>
+        <y>310</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>245</x>
+        <y>311</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>250</x>
+        <y>315</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>256</x>
+        <y>318</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>259</x>
+        <y>319</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>263</x>
+        <y>321</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>269</x>
+        <y>322</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>271</x>
+        <y>322</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>275</x>
+        <y>323</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>280</x>
+        <y>323</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>282</x>
+        <y>323</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>284</x>
+        <y>323</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>285</x>
+        <y>323</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>288</x>
+        <y>323</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>290</x>
+        <y>323</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>292</x>
+        <y>323</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>295</x>
+        <y>322</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>297</x>
+        <y>321</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>300</x>
+        <y>320</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>301</x>
+        <y>320</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>303</x>
+        <y>320</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>305</x>
+        <y>319</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>307</x>
+        <y>318</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>309</x>
+        <y>318</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>311</x>
+        <y>317</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>313</x>
+        <y>315</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>315</x>
+        <y>313</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>319</x>
+        <y>312</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>322</x>
+        <y>308</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>326</x>
+        <y>305</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>329</x>
+        <y>304</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>332</x>
+        <y>301</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>335</x>
+        <y>299</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>338</x>
+        <y>297</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>342</x>
+        <y>294</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>344</x>
+        <y>292</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>349</x>
+        <y>287</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>352</x>
+        <y>284</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>355</x>
+        <y>279</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>359</x>
+        <y>274</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>363</x>
+        <y>269</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>367</x>
+        <y>263</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>368</x>
+        <y>260</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>369</x>
+        <y>257</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>370</x>
+        <y>253</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>373</x>
+        <y>249</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>375</x>
+        <y>245</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>375</x>
+        <y>242</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>375</x>
+        <y>239</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>378</x>
+        <y>237</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>378</x>
+        <y>235</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>378</x>
+        <y>233</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>379</x>
+        <y>231</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>380</x>
+        <y>231</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>380</x>
+        <y>230</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>380</x>
+        <y>228</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>381</x>
+        <y>228</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>381</x>
+        <y>227</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>382</x>
+        <y>226</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>382</x>
+        <y>225</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>169</x>
+        <y>191</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>169</x>
+        <y>190</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>169</x>
+        <y>188</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>168</x>
+        <y>183</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>168</x>
+        <y>181</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>166</x>
+        <y>177</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>166</x>
+        <y>174</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>165</x>
+        <y>169</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>163</x>
+        <y>164</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>162</x>
+        <y>161</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>161</x>
+        <y>156</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>161</x>
+        <y>154</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>160</x>
+        <y>151</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>158</x>
+        <y>147</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>158</x>
+        <y>144</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>157</x>
+        <y>142</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>156</x>
+        <y>137</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>156</x>
+        <y>135</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>155</x>
+        <y>132</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>154</x>
+        <y>129</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>153</x>
+        <y>128</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>153</x>
+        <y>124</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>153</x>
+        <y>121</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>153</x>
+        <y>118</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>153</x>
+        <y>114</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>153</x>
+        <y>111</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>151</x>
+        <y>107</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>151</x>
+        <y>105</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>151</x>
+        <y>102</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>151</x>
+        <y>97</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>151</x>
+        <y>94</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>151</x>
+        <y>91</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>153</x>
+        <y>87</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>153</x>
+        <y>84</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>156</x>
+        <y>79</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>158</x>
+        <y>77</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>158</x>
+        <y>74</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>160</x>
+        <y>71</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>160</x>
+        <y>69</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>160</x>
+        <y>67</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>161</x>
+        <y>65</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>162</x>
+        <y>63</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>163</x>
+        <y>61</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>164</x>
+        <y>58</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>165</x>
+        <y>56</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>166</x>
+        <y>55</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>167</x>
+        <y>53</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>169</x>
+        <y>52</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>169</x>
+        <y>51</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>171</x>
+        <y>49</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>172</x>
+        <y>49</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>174</x>
+        <y>47</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>176</x>
+        <y>47</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>178</x>
+        <y>45</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>180</x>
+        <y>45</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>183</x>
+        <y>44</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>189</x>
+        <y>42</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>191</x>
+        <y>42</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>197</x>
+        <y>40</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>205</x>
+        <y>37</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>210</x>
+        <y>37</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>219</x>
+        <y>36</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>227</x>
+        <y>36</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>236</x>
+        <y>34</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>246</x>
+        <y>33</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>255</x>
+        <y>30</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>266</x>
+        <y>29</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>274</x>
+        <y>29</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>283</x>
+        <y>29</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>291</x>
+        <y>29</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>299</x>
+        <y>29</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>307</x>
+        <y>29</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>315</x>
+        <y>29</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>322</x>
+        <y>29</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>329</x>
+        <y>29</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>334</x>
+        <y>29</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>338</x>
+        <y>29</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>344</x>
+        <y>29</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>349</x>
+        <y>29</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>355</x>
+        <y>29</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>359</x>
+        <y>30</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>362</x>
+        <y>32</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>367</x>
+        <y>33</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>373</x>
+        <y>35</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>377</x>
+        <y>36</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>380</x>
+        <y>38</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>384</x>
+        <y>41</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>388</x>
+        <y>44</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>390</x>
+        <y>48</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>393</x>
+        <y>54</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>396</x>
+        <y>60</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>399</x>
+        <y>65</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>401</x>
+        <y>74</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>402</x>
+        <y>82</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>404</x>
+        <y>89</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>404</x>
+        <y>96</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>405</x>
+        <y>105</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>405</x>
+        <y>113</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>405</x>
+        <y>120</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>405</x>
+        <y>128</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>404</x>
+        <y>135</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>402</x>
+        <y>143</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>399</x>
+        <y>153</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>398</x>
+        <y>160</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>396</x>
+        <y>166</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>395</x>
+        <y>170</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>393</x>
+        <y>173</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>393</x>
+        <y>175</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>392</x>
+        <y>178</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>391</x>
+        <y>179</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>211</x>
+        <y>143</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>211</x>
+        <y>141</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>211</x>
+        <y>140</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>211</x>
+        <y>137</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>211</x>
+        <y>134</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>211</x>
+        <y>132</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>211</x>
+        <y>130</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>209</x>
+        <y>127</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>207</x>
+        <y>124</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>206</x>
+        <y>121</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>204</x>
+        <y>119</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>204</x>
+        <y>117</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>202</x>
+        <y>115</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>202</x>
+        <y>114</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>202</x>
+        <y>113</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>202</x>
+        <y>112</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>202</x>
+        <y>111</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>202</x>
+        <y>109</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>202</x>
+        <y>108</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>203</x>
+        <y>106</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>206</x>
+        <y>105</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>210</x>
+        <y>104</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>213</x>
+        <y>104</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>214</x>
+        <y>104</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>215</x>
+        <y>104</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>217</x>
+        <y>104</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>218</x>
+        <y>104</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>220</x>
+        <y>104</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>222</x>
+        <y>105</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>223</x>
+        <y>107</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>223</x>
+        <y>110</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>224</x>
+        <y>114</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>226</x>
+        <y>117</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>226</x>
+        <y>120</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>229</x>
+        <y>123</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>229</x>
+        <y>124</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>229</x>
+        <y>126</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>229</x>
+        <y>128</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>279</x>
+        <y>127</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>279</x>
+        <y>125</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>281</x>
+        <y>123</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>281</x>
+        <y>121</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>281</x>
+        <y>118</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>281</x>
+        <y>116</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>282</x>
+        <y>114</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>283</x>
+        <y>113</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>285</x>
+        <y>111</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>285</x>
+        <y>110</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>285</x>
+        <y>109</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>285</x>
+        <y>108</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>286</x>
+        <y>108</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>287</x>
+        <y>108</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>287</x>
+        <y>107</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>288</x>
+        <y>106</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>290</x>
+        <y>106</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>292</x>
+        <y>106</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>294</x>
+        <y>106</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>296</x>
+        <y>106</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>298</x>
+        <y>106</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>301</x>
+        <y>106</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>302</x>
+        <y>106</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>304</x>
+        <y>106</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>306</x>
+        <y>108</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>307</x>
+        <y>110</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>309</x>
+        <y>114</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>310</x>
+        <y>114</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>311</x>
+        <y>117</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>312</x>
+        <y>119</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>313</x>
+        <y>120</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>313</x>
+        <y>122</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>314</x>
+        <y>123</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>314</x>
+        <y>124</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>315</x>
+        <y>125</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>315</x>
+        <y>127</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>316</x>
+        <y>128</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>316</x>
+        <y>130</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>316</x>
+        <y>132</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>316</x>
+        <y>133</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>316</x>
+        <y>134</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>316</x>
+        <y>135</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>236</x>
+        <y>260</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>237</x>
+        <y>260</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>238</x>
+        <y>260</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>239</x>
+        <y>262</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>240</x>
+        <y>262</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>243</x>
+        <y>263</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>244</x>
+        <y>265</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>245</x>
+        <y>266</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>248</x>
+        <y>268</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>249</x>
+        <y>269</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>251</x>
+        <y>270</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>253</x>
+        <y>271</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>255</x>
+        <y>273</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>258</x>
+        <y>274</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>260</x>
+        <y>276</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>262</x>
+        <y>277</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>264</x>
+        <y>278</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>265</x>
+        <y>279</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>268</x>
+        <y>281</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>269</x>
+        <y>282</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>271</x>
+        <y>283</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>274</x>
+        <y>284</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>275</x>
+        <y>284</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>276</x>
+        <y>286</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>278</x>
+        <y>287</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>279</x>
+        <y>287</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>282</x>
+        <y>287</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>284</x>
+        <y>288</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>286</x>
+        <y>288</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>291</x>
+        <y>288</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>296</x>
+        <y>288</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>301</x>
+        <y>288</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>306</x>
+        <y>288</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>314</x>
+        <y>286</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>318</x>
+        <y>285</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>322</x>
+        <y>283</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>324</x>
+        <y>283</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>326</x>
+        <y>283</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>327</x>
+        <y>281</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>328</x>
+        <y>281</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>330</x>
+        <y>280</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>331</x>
+        <y>278</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>333</x>
+        <y>277</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>333</x>
+        <y>274</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>338</x>
+        <y>269</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>338</x>
+        <y>267</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>341</x>
+        <y>264</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>342</x>
+        <y>260</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>344</x>
+        <y>259</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>345</x>
+        <y>257</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
+    <shape>
+        <x>345</x>
+        <y>256</y>
+        <color>RED</color>
+        <type>CIRCLE</type>
+    </shape>
 </shapes>
