@@ -4,7 +4,7 @@ import listener.ExitListener;
 import listener.OpenListener;
 import listener.SaveListener;
 import xml.dom.DomParser;
-import xml.jaxb.JAXBParser;
+//import xml.jaxb.JAXBParser;
 import xml.sax.SaxParser;
 import xml.stax.StaxParser;
 
@@ -40,20 +40,20 @@ public class PaintWindow extends JFrame {
         SaxParser saxParser = new SaxParser();
         DomParser domParser = new DomParser();
         StaxParser staxParser = new StaxParser();
-        JAXBParser jaxbParser = new JAXBParser();
+//        JAXBParser jaxbParser = new JAXBParser();
 
         JMenu saveMenu = new JMenu("Sačuvaj");
         saveMenu.add(createMenuItem("SAX", new SaveListener(saxParser)));
         saveMenu.add(createMenuItem("DOM", new SaveListener(domParser)));
         saveMenu.add(createMenuItem("StAX", new SaveListener(staxParser)));
-        saveMenu.add(createMenuItem("JAXB", new SaveListener(jaxbParser)));
+//        saveMenu.add(createMenuItem("JAXB", new SaveListener(jaxbParser)));
 
 
         JMenu openMenu = new JMenu("Otvori");
         openMenu.add(createMenuItem("SAX", new OpenListener(saxParser)));
         openMenu.add(createMenuItem("DOM", new OpenListener(domParser)));
         openMenu.add(createMenuItem("StAX", new OpenListener(staxParser)));
-        openMenu.add(createMenuItem("JAXB", new OpenListener(jaxbParser)));
+//        openMenu.add(createMenuItem("JAXB", new OpenListener(jaxbParser)));
 
         JMenuItem exitMenuItem = new JMenuItem("Izlaz");
         exitMenuItem.addActionListener(new ExitListener());
